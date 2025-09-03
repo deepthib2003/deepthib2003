@@ -60,7 +60,7 @@ I am open to collaborating on:
 | Python                     | ![Python](https://img.shields.io/badge/Progress-90%25-brightgreen) |
 | SQL                        | ![SQL](https://img.shields.io/badge/Progress-85%25-green) |
 | NumPy & Pandas             | ![Pandas](https://img.shields.io/badge/Progress-90%25-brightgreen) |
-| AI / ML Fundamentals       | ![AI/ML](https://img.shields.io/badge/Progress-80%25-yellowgreen) |
+| AI / ML Fundamentals       | ![AI/ML](https://img.shields.io/badge/Progress-70%25-yellowgreen) |
 | Data Analytics             | ![Data Analytics](https://img.shields.io/badge/Progress-85%25-green) |
 | R Programming              | ![R](https://img.shields.io/badge/Progress-75%25-yellowgreen) |
 | Java (Fundamentals)        | ![Java](https://img.shields.io/badge/Progress-60%25-yellow) |
