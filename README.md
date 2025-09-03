@@ -53,16 +53,18 @@ I am open to collaborating on:
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
+## 📈 Skills
+
 | Skill                      | Proficiency     |
 |----------------------------|-----------------|
-| Python                     | ![](https://progress-bar.dev/90) |
-| SQL                        | ![](https://progress-bar.dev/85) |
-| NumPy & Pandas             | ![](https://progress-bar.dev/90) |
-| AI / ML Fundamentals       | ![](https://progress-bar.dev/80) |
-| Data Analytics             | ![](https://progress-bar.dev/85) |
-| R Programming              | ![](https://progress-bar.dev/75) |
-| Java (Fundamentals)        | ![](https://progress-bar.dev/60) |
-| MS Excel                   | ![](https://progress-bar.dev/85) |
+| Python                     | ![Python](https://img.shields.io/badge/Progress-90%25-brightgreen) |
+| SQL                        | ![SQL](https://img.shields.io/badge/Progress-85%25-green) |
+| NumPy & Pandas             | ![Pandas](https://img.shields.io/badge/Progress-90%25-brightgreen) |
+| AI / ML Fundamentals       | ![AI/ML](https://img.shields.io/badge/Progress-80%25-yellowgreen) |
+| Data Analytics             | ![Data Analytics](https://img.shields.io/badge/Progress-85%25-green) |
+| R Programming              | ![R](https://img.shields.io/badge/Progress-75%25-yellowgreen) |
+| Java (Fundamentals)        | ![Java](https://img.shields.io/badge/Progress-60%25-yellow) |
+| MS Excel                   | ![Excel](https://img.shields.io/badge/Progress-85%25-green) |
 
 ## 📜 Certifications
 
